@@ -1,0 +1,5 @@
+[{
+  "file": "C:\\Retrofit\\CodeLite\\Workspaces\\Vector_Processor\\Vector_Processor\\main.cpp",
+  "directory": "C:\\Retrofit\\CodeLite\\Workspaces\\Vector_Processor\\Vector_Processor",
+  "command": "C:/Retrofit/MinGW64/v8.1.0/mingw64/bin/g++.exe -c C:\\Retrofit\\CodeLite\\Workspaces\\Vector_Processor\\Vector_Processor\\main.cpp -o C:\\Retrofit\\CodeLite\\Workspaces\\Vector_Processor\\Vector_Processor\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\Retrofit\\MinGW64\\v8.1.0\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++ -IC:\\Retrofit\\MinGW64\\v8.1.0\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\Retrofit\\MinGW64\\v8.1.0\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\backward -IC:\\Retrofit\\MinGW64\\v8.1.0\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include -IC:\\Retrofit\\MinGW64\\v8.1.0\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include-fixed -IC:\\Retrofit\\MinGW64\\v8.1.0\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -g  -O0  -Wall"
+ }]
